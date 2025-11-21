@@ -2398,5 +2398,17 @@
         "bible_book": "여호수아",
         "chapter_number": 1,
         "github_path": "bible_explanation/여호수아_1.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139793",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139793 for https://nocr.net/com_kor_hochma/139793"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139794",
+        "bible_book": "여호수아",
+        "chapter_number": 2,
+        "github_path": "bible_explanation/여호수아_2.json"
     }
 ]
