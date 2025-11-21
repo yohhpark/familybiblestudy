@@ -11920,5 +11920,17 @@
         "bible_book": "스가랴",
         "chapter_number": 12,
         "github_path": "bible_explanation/스가랴_12.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141380",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141380 for https://nocr.net/com_kor_hochma/141380"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141381",
+        "bible_book": "스가랴",
+        "chapter_number": 13,
+        "github_path": "bible_explanation/스가랴_13.json"
     }
 ]
