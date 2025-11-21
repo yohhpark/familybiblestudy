@@ -5536,5 +5536,17 @@
         "bible_book": "느헤미야",
         "chapter_number": 11,
         "github_path": "bible_explanation/느헤미야_11.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140316",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140316 for https://nocr.net/com_kor_hochma/140316"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140317",
+        "bible_book": "느헤미야",
+        "chapter_number": 12,
+        "github_path": "bible_explanation/느헤미야_12.json"
     }
 ]
