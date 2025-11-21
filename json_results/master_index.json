@@ -2038,5 +2038,17 @@
         "bible_book": "신명기",
         "chapter_number": 5,
         "github_path": "bible_explanation/신명기_5.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139733",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139733 for https://nocr.net/com_kor_hochma/139733"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139734",
+        "bible_book": "신명기",
+        "chapter_number": 6,
+        "github_path": "bible_explanation/신명기_6.json"
     }
 ]
