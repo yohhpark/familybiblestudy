@@ -8536,5 +8536,17 @@
         "bible_book": "잠언",
         "chapter_number": 20,
         "github_path": "bible_explanation/잠언_20.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140816",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140816 for https://nocr.net/com_kor_hochma/140816"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140817",
+        "bible_book": "잠언",
+        "chapter_number": 21,
+        "github_path": "bible_explanation/잠언_21.json"
     }
 ]
