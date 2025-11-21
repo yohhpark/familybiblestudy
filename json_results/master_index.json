@@ -14806,5 +14806,17 @@
         "bible_book": "베드로전서",
         "chapter_number": 5,
         "github_path": "bible_explanation/베드로전서_5.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141861",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141861 for https://nocr.net/com_kor_hochma/141861"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141862",
+        "bible_book": "베드로후서",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/베드로후서_1.json"
     }
 ]
