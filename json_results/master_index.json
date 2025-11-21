@@ -5062,5 +5062,17 @@
         "bible_book": "역대하",
         "chapter_number": 18,
         "github_path": "bible_explanation/역대하_18.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140237",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140237 for https://nocr.net/com_kor_hochma/140237"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140238",
+        "bible_book": "역대하",
+        "chapter_number": 19,
+        "github_path": "bible_explanation/역대하_19.json"
     }
 ]
