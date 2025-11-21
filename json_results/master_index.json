@@ -10882,5 +10882,17 @@
         "bible_book": "에스겔",
         "chapter_number": 36,
         "github_path": "bible_explanation/에스겔_36.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141207",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141207 for https://nocr.net/com_kor_hochma/141207"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141208",
+        "bible_book": "에스겔",
+        "chapter_number": 37,
+        "github_path": "bible_explanation/에스겔_37.json"
     }
 ]
