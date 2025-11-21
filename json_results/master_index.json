@@ -52,5 +52,35 @@
         "bible_book": "창세기",
         "chapter_number": 3,
         "github_path": "bible_explanation/창세기_3.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139402",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139402 for https://nocr.net/com_kor_hochma/139402"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139403",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139403 for https://nocr.net/com_kor_hochma/139403"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139404",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139404 for https://nocr.net/com_kor_hochma/139404"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139405",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139405 for https://nocr.net/com_kor_hochma/139405"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139406",
+        "bible_book": "창세기",
+        "chapter_number": 4,
+        "github_path": "bible_explanation/창세기_4.json"
     }
 ]
