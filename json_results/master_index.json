@@ -11992,5 +11992,17 @@
         "bible_book": "말라기",
         "chapter_number": 4,
         "github_path": "bible_explanation/말라기_4.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141392",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141392 for https://nocr.net/com_kor_hochma/141392"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141393",
+        "bible_book": "마태복음",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/마태복음_1.json"
     }
 ]
