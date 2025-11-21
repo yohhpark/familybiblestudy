@@ -14578,5 +14578,17 @@
         "bible_book": "히브리서",
         "chapter_number": 4,
         "github_path": "bible_explanation/히브리서_4.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141823",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141823 for https://nocr.net/com_kor_hochma/141823"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141824",
+        "bible_book": "히브리서",
+        "chapter_number": 5,
+        "github_path": "bible_explanation/히브리서_5.json"
     }
 ]
