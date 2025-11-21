@@ -14902,5 +14902,17 @@
         "bible_book": "요한일서",
         "chapter_number": 5,
         "github_path": "bible_explanation/요한일서_5.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141877",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141877 for https://nocr.net/com_kor_hochma/141877"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141878",
+        "bible_book": "요한이서",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/요한이서_1.json"
     }
 ]
