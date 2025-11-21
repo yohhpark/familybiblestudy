@@ -8812,5 +8812,17 @@
         "bible_book": "전도서",
         "chapter_number": 12,
         "github_path": "bible_explanation/전도서_12.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140862",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140862 for https://nocr.net/com_kor_hochma/140862"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140863",
+        "bible_book": "아가",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/아가_1.json"
     }
 ]
