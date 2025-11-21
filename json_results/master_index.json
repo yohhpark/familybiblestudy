@@ -1540,5 +1540,17 @@
         "bible_book": "레위기",
         "chapter_number": 27,
         "github_path": "bible_explanation/레위기_27.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139650",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139650 for https://nocr.net/com_kor_hochma/139650"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139651",
+        "bible_book": "민수기",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/민수기_1.json"
     }
 ]
