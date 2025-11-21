@@ -13048,5 +13048,17 @@
         "bible_book": "요한복음",
         "chapter_number": 17,
         "github_path": "bible_explanation/요한복음_17.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141568",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141568 for https://nocr.net/com_kor_hochma/141568"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141569",
+        "bible_book": "요한복음",
+        "chapter_number": 18,
+        "github_path": "bible_explanation/요한복음_18.json"
     }
 ]
