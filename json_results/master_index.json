@@ -13366,5 +13366,35 @@
         "bible_book": "사도행전",
         "chapter_number": 20,
         "github_path": "bible_explanation/사도행전_20.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141621",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141621 for https://nocr.net/com_kor_hochma/141621"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141622",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141622 for https://nocr.net/com_kor_hochma/141622"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141623",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141623 for https://nocr.net/com_kor_hochma/141623"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141624",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141624 for https://nocr.net/com_kor_hochma/141624"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141625",
+        "bible_book": "사도행전",
+        "chapter_number": 21,
+        "github_path": "bible_explanation/사도행전_21.json"
     }
 ]
