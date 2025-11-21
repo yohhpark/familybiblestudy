@@ -4294,5 +4294,23 @@
         "bible_book": "역대상",
         "chapter_number": 1,
         "github_path": "bible_explanation/역대상_1.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140109",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140109 for https://nocr.net/com_kor_hochma/140109"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140110",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140110 for https://nocr.net/com_kor_hochma/140110"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140111",
+        "bible_book": "역대상",
+        "chapter_number": 2,
+        "github_path": "bible_explanation/역대상_2.json"
     }
 ]
