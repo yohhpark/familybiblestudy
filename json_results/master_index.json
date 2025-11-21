@@ -14326,5 +14326,17 @@
         "bible_book": "데살로니가전서",
         "chapter_number": 5,
         "github_path": "bible_explanation/데살로니가전서_5.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141781",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141781 for https://nocr.net/com_kor_hochma/141781"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141782",
+        "bible_book": "데살로니가후서",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/데살로니가후서_1.json"
     }
 ]
