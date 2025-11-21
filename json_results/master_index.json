@@ -11284,5 +11284,17 @@
         "bible_book": "호세아",
         "chapter_number": 8,
         "github_path": "bible_explanation/호세아_8.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141274",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141274 for https://nocr.net/com_kor_hochma/141274"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141275",
+        "bible_book": "호세아",
+        "chapter_number": 9,
+        "github_path": "bible_explanation/호세아_9.json"
     }
 ]
