@@ -15,7 +15,7 @@ GITHUB_TOKEN = "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"
 REPO_OWNER = "yohhpark"
 REPO_NAME = "familybiblestudy"
 # The target directory within the repository
-PATH_PREFIX = "json_results"
+PATH_PREFIX = "bible_explanation"
 BRANCH = "main" # Target branch
 
 def upload_to_github(repo_owner, repo_name, file_path, content, token, commit_message):
