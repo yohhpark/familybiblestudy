@@ -13654,5 +13654,17 @@
         "bible_book": "로마서",
         "chapter_number": 14,
         "github_path": "bible_explanation/로마서_14.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141669",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141669 for https://nocr.net/com_kor_hochma/141669"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141670",
+        "bible_book": "로마서",
+        "chapter_number": 15,
+        "github_path": "bible_explanation/로마서_15.json"
     }
 ]
