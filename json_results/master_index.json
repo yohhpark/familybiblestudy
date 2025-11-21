@@ -1012,5 +1012,17 @@
         "bible_book": "출애굽기",
         "chapter_number": 23,
         "github_path": "bible_explanation/출애굽기_23.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139562",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139562 for https://nocr.net/com_kor_hochma/139562"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139563",
+        "bible_book": "출애굽기",
+        "chapter_number": 24,
+        "github_path": "bible_explanation/출애굽기_24.json"
     }
 ]
