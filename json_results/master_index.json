@@ -5632,5 +5632,17 @@
         "bible_book": "에스더",
         "chapter_number": 6,
         "github_path": "bible_explanation/에스더_6.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140332",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140332 for https://nocr.net/com_kor_hochma/140332"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140333",
+        "bible_book": "에스더",
+        "chapter_number": 7,
+        "github_path": "bible_explanation/에스더_7.json"
     }
 ]
