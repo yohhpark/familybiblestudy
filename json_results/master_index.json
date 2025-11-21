@@ -14722,5 +14722,17 @@
         "bible_book": "야고보서",
         "chapter_number": 3,
         "github_path": "bible_explanation/야고보서_3.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141847",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141847 for https://nocr.net/com_kor_hochma/141847"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141848",
+        "bible_book": "야고보서",
+        "chapter_number": 4,
+        "github_path": "bible_explanation/야고보서_4.json"
     }
 ]
