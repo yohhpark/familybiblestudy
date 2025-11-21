@@ -14482,5 +14482,17 @@
         "bible_book": "디모데후서",
         "chapter_number": 4,
         "github_path": "bible_explanation/디모데후서_4.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141807",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141807 for https://nocr.net/com_kor_hochma/141807"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141808",
+        "bible_book": "디도서",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/디도서_1.json"
     }
 ]
