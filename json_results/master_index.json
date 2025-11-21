@@ -9412,5 +9412,17 @@
         "bible_book": "이사야",
         "chapter_number": 39,
         "github_path": "bible_explanation/이사야_39.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140962",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140962 for https://nocr.net/com_kor_hochma/140962"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140963",
+        "bible_book": "이사야",
+        "chapter_number": 40,
+        "github_path": "bible_explanation/이사야_40.json"
     }
 ]
