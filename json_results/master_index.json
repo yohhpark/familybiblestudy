@@ -2902,5 +2902,17 @@
         "bible_book": "사사기",
         "chapter_number": 18,
         "github_path": "bible_explanation/사사기_18.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139877",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139877 for https://nocr.net/com_kor_hochma/139877"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139878",
+        "bible_book": "사사기",
+        "chapter_number": 19,
+        "github_path": "bible_explanation/사사기_19.json"
     }
 ]
