@@ -14254,5 +14254,17 @@
         "bible_book": "골로새서",
         "chapter_number": 3,
         "github_path": "bible_explanation/골로새서_3.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141769",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141769 for https://nocr.net/com_kor_hochma/141769"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141770",
+        "bible_book": "골로새서",
+        "chapter_number": 4,
+        "github_path": "bible_explanation/골로새서_4.json"
     }
 ]
