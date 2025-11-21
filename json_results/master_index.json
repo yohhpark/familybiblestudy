@@ -5968,5 +5968,17 @@
         "bible_book": "욥기",
         "chapter_number": 24,
         "github_path": "bible_explanation/욥기_24.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140388",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140388 for https://nocr.net/com_kor_hochma/140388"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140389",
+        "bible_book": "욥기",
+        "chapter_number": 25,
+        "github_path": "bible_explanation/욥기_25.json"
     }
 ]
