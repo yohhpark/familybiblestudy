@@ -8032,5 +8032,17 @@
         "bible_book": "시편",
         "chapter_number": 128,
         "github_path": "bible_explanation/시편_128.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140732",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140732 for https://nocr.net/com_kor_hochma/140732"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140733",
+        "bible_book": "시편",
+        "chapter_number": 129,
+        "github_path": "bible_explanation/시편_129.json"
     }
 ]
