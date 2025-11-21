@@ -9862,5 +9862,17 @@
         "bible_book": "예레미야",
         "chapter_number": 10,
         "github_path": "bible_explanation/예레미야_10.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141037",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141037 for https://nocr.net/com_kor_hochma/141037"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141038",
+        "bible_book": "예레미야",
+        "chapter_number": 11,
+        "github_path": "bible_explanation/예레미야_11.json"
     }
 ]
