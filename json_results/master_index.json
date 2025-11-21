@@ -11500,5 +11500,17 @@
         "bible_book": "아모스",
         "chapter_number": 9,
         "github_path": "bible_explanation/아모스_9.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141310",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141310 for https://nocr.net/com_kor_hochma/141310"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141311",
+        "bible_book": "오바댜",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/오바댜_1.json"
     }
 ]
