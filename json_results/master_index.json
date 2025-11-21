@@ -14170,5 +14170,17 @@
         "bible_book": "에베소서",
         "chapter_number": 6,
         "github_path": "bible_explanation/에베소서_6.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141755",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141755 for https://nocr.net/com_kor_hochma/141755"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141756",
+        "bible_book": "빌립보서",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/빌립보서_1.json"
     }
 ]
