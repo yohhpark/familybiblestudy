@@ -148,5 +148,17 @@
         "bible_book": "창세기",
         "chapter_number": 7,
         "github_path": "bible_explanation/창세기_7.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139418",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139418 for https://nocr.net/com_kor_hochma/139418"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139419",
+        "bible_book": "창세기",
+        "chapter_number": 8,
+        "github_path": "bible_explanation/창세기_8.json"
     }
 ]
