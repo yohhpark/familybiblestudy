@@ -11,7 +11,7 @@ import time # For exponential backoff
 GITHUB_TOKEN = "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" # Replace with your token
 REPO_OWNER = "yohhpark"
 REPO_NAME = "familybiblestudy"
-PATH_PREFIX = "bible_explanation" # Set to 'bible_explanation' as per instruction
+PATH_PREFIX = "json_results" # Set to 'bible_explanation' as per instruction
 BRANCH = "main"
 
 def upload_to_github(repo_owner, repo_name, file_path, content, token, commit_message):
