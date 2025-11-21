@@ -11392,5 +11392,17 @@
         "bible_book": "요엘",
         "chapter_number": 3,
         "github_path": "bible_explanation/요엘_3.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141292",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141292 for https://nocr.net/com_kor_hochma/141292"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141293",
+        "bible_book": "아모스",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/아모스_1.json"
     }
 ]
