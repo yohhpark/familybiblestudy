@@ -13456,5 +13456,17 @@
         "bible_book": "사도행전",
         "chapter_number": 26,
         "github_path": "bible_explanation/사도행전_26.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141636",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "Connection error occurred: HTTPSConnectionPool(host='nocr.net', port=443): Read timed out. for https://nocr.net/com_kor_hochma/141636"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141637",
+        "bible_book": "사도행전",
+        "chapter_number": 27,
+        "github_path": "bible_explanation/사도행전_27.json"
     }
 ]
