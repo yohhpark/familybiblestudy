@@ -13966,5 +13966,17 @@
         "bible_book": "고린도후서",
         "chapter_number": 8,
         "github_path": "bible_explanation/고린도후서_8.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141721",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141721 for https://nocr.net/com_kor_hochma/141721"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141722",
+        "bible_book": "고린도후서",
+        "chapter_number": 9,
+        "github_path": "bible_explanation/고린도후서_9.json"
     }
 ]
