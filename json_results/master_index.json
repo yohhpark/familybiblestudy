@@ -13306,5 +13306,17 @@
         "bible_book": "사도행전",
         "chapter_number": 15,
         "github_path": "bible_explanation/사도행전_15.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141611",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141611 for https://nocr.net/com_kor_hochma/141611"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141612",
+        "bible_book": "사도행전",
+        "chapter_number": 16,
+        "github_path": "bible_explanation/사도행전_16.json"
     }
 ]
