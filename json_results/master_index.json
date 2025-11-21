@@ -14074,5 +14074,17 @@
         "bible_book": "갈라디아서",
         "chapter_number": 4,
         "github_path": "bible_explanation/갈라디아서_4.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141739",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141739 for https://nocr.net/com_kor_hochma/141739"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141740",
+        "bible_book": "갈라디아서",
+        "chapter_number": 5,
+        "github_path": "bible_explanation/갈라디아서_5.json"
     }
 ]
