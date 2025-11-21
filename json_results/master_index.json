@@ -5290,5 +5290,17 @@
         "bible_book": "에스라",
         "chapter_number": 1,
         "github_path": "bible_explanation/에스라_1.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140275",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140275 for https://nocr.net/com_kor_hochma/140275"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140276",
+        "bible_book": "에스라",
+        "chapter_number": 2,
+        "github_path": "bible_explanation/에스라_2.json"
     }
 ]
