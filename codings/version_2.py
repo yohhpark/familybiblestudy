@@ -11,7 +11,7 @@ import time # For exponential backoff
 # 1. GITHUB CONFIGURATION
 # ==============================================================================
 # NOTE: Replace 'YOUR_GITHUB_PAT' with your actual Personal Access Token
-GITHUB_TOKEN = "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" 
+GITHUB_TOKEN = "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" 
 REPO_OWNER = "yohhpark"
 REPO_NAME = "familybiblestudy"
 # The target directory within the repository

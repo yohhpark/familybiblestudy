@@ -8,7 +8,7 @@ import time # For exponential backoff
 # ==============================================================================
 # 1. GITHUB CONFIGURATION
 # ==============================================================================
-GITHUB_TOKEN = "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" # Replace with your token
+GITHUB_TOKEN = "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" # Replace with your token
 REPO_OWNER = "yohhpark"
 REPO_NAME = "familybiblestudy"
 PATH_PREFIX = "bible_explanation" # Set to 'bible_explanation' as per instruction
