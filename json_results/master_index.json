@@ -14626,5 +14626,29 @@
         "bible_book": "히브리서",
         "chapter_number": 8,
         "github_path": "bible_explanation/히브리서_8.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141831",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141831 for https://nocr.net/com_kor_hochma/141831"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141832",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "Connection error occurred: HTTPSConnectionPool(host='nocr.net', port=443): Read timed out. for https://nocr.net/com_kor_hochma/141832"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141833",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141833 for https://nocr.net/com_kor_hochma/141833"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141834",
+        "bible_book": "히브리서",
+        "chapter_number": 10,
+        "github_path": "bible_explanation/히브리서_10.json"
     }
 ]
