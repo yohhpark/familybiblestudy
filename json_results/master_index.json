@@ -12574,5 +12574,17 @@
         "bible_book": "누가복음",
         "chapter_number": 3,
         "github_path": "bible_explanation/누가복음_3.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141489",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141489 for https://nocr.net/com_kor_hochma/141489"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141490",
+        "bible_book": "누가복음",
+        "chapter_number": 4,
+        "github_path": "bible_explanation/누가복음_4.json"
     }
 ]
