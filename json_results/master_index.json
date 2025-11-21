@@ -11752,5 +11752,17 @@
         "bible_book": "스바냐",
         "chapter_number": 3,
         "github_path": "bible_explanation/스바냐_3.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141352",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141352 for https://nocr.net/com_kor_hochma/141352"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141353",
+        "bible_book": "학개",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/학개_1.json"
     }
 ]
