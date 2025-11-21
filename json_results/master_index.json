@@ -11158,5 +11158,17 @@
         "bible_book": "다니엘",
         "chapter_number": 10,
         "github_path": "bible_explanation/다니엘_10.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141253",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141253 for https://nocr.net/com_kor_hochma/141253"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141254",
+        "bible_book": "다니엘",
+        "chapter_number": 11,
+        "github_path": "bible_explanation/다니엘_11.json"
     }
 ]
