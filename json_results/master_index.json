@@ -12238,5 +12238,17 @@
         "bible_book": "마태복음",
         "chapter_number": 20,
         "github_path": "bible_explanation/마태복음_20.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141433",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141433 for https://nocr.net/com_kor_hochma/141433"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141434",
+        "bible_book": "마태복음",
+        "chapter_number": 21,
+        "github_path": "bible_explanation/마태복음_21.json"
     }
 ]
