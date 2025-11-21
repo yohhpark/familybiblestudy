@@ -4144,5 +4144,17 @@
         "bible_book": "열왕기하",
         "chapter_number": 16,
         "github_path": "bible_explanation/열왕기하_16.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140084",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140084 for https://nocr.net/com_kor_hochma/140084"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140085",
+        "bible_book": "열왕기하",
+        "chapter_number": 17,
+        "github_path": "bible_explanation/열왕기하_17.json"
     }
 ]
