@@ -1,3 +1,5 @@
+#this code confirms that it can print out the required data from the webpage
+
 import requests
 from bs4 import BeautifulSoup
 import re
