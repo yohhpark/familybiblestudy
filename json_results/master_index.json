@@ -1780,5 +1780,17 @@
         "bible_book": "민수기",
         "chapter_number": 20,
         "github_path": "bible_explanation/민수기_20.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139690",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139690 for https://nocr.net/com_kor_hochma/139690"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139691",
+        "bible_book": "민수기",
+        "chapter_number": 21,
+        "github_path": "bible_explanation/민수기_21.json"
     }
 ]
