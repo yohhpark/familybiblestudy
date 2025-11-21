@@ -8776,5 +8776,17 @@
         "bible_book": "전도서",
         "chapter_number": 9,
         "github_path": "bible_explanation/전도서_9.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140856",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140856 for https://nocr.net/com_kor_hochma/140856"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140857",
+        "bible_book": "전도서",
+        "chapter_number": 10,
+        "github_path": "bible_explanation/전도서_10.json"
     }
 ]
