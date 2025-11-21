@@ -11536,5 +11536,17 @@
         "bible_book": "요나",
         "chapter_number": 2,
         "github_path": "bible_explanation/요나_2.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141316",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141316 for https://nocr.net/com_kor_hochma/141316"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141317",
+        "bible_book": "요나",
+        "chapter_number": 3,
+        "github_path": "bible_explanation/요나_3.json"
     }
 ]
