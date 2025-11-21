@@ -14926,5 +14926,17 @@
         "bible_book": "요한삼서",
         "chapter_number": 1,
         "github_path": "bible_explanation/요한삼서_1.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141881",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/141881 for https://nocr.net/com_kor_hochma/141881"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/141882",
+        "bible_book": "유다서",
+        "chapter_number": 1,
+        "github_path": "bible_explanation/유다서_1.json"
     }
 ]
