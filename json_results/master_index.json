@@ -8860,5 +8860,17 @@
         "bible_book": "아가",
         "chapter_number": 4,
         "github_path": "bible_explanation/아가_4.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140870",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/140870 for https://nocr.net/com_kor_hochma/140870"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/140871",
+        "bible_book": "아가",
+        "chapter_number": 5,
+        "github_path": "bible_explanation/아가_5.json"
     }
 ]
