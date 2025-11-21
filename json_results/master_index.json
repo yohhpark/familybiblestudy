@@ -3532,5 +3532,17 @@
         "bible_book": "사무엘하",
         "chapter_number": 14,
         "github_path": "bible_explanation/사무엘하_14.json"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139982",
+        "bible_book": "N/A",
+        "chapter_number": "N/A",
+        "error": "HTTP error occurred: 404 Client Error: Not Found for url: https://nocr.net/com_kor_hochma/139982 for https://nocr.net/com_kor_hochma/139982"
+    },
+    {
+        "url": "https://nocr.net/com_kor_hochma/139983",
+        "bible_book": "사무엘하",
+        "chapter_number": 15,
+        "github_path": "bible_explanation/사무엘하_15.json"
     }
 ]
